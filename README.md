@@ -1,12 +1,20 @@
-﻿Browser Extension - TagLibPermalink
+﻿TagLibPermalink - Browser Extension
 ===================================
 
-This extension works in Firefox and in Chrome.  It may work in other browsers, but hasn't
+This extension adds a "permalink" link to the pages of the JATS Tag Library
+documentation, which can be found here:
+
+  * [Archiving and Interchange - NISO JATS
+    1.0](http://jats.nlm.nih.gov/archiving/tag-library/1.0/)
+  * [Publishing - NISO JATS 1.0](http://jats.nlm.nih.gov/publishing/tag-library/1.0/)
+  * [Article Authoring - NISO JATS
+    1.0](http://jats.nlm.nih.gov/articleauthoring/tag-library/1.0/)
+
+It works in Firefox and in Chrome.  It may work in other browsers, but hasn't
 been tested.
 
-You can watch a [short video](http://www.ncbi.nlm.nih.gov/staff/maloneyc/JatsTagLibrary/TagSetPermalink.mp4)
+You can watch a [short video](http://www.ncbi.nlm.nih.gov/staff/maloneyc/TagLibPermalink.mp4)
 about how to install it, and what it does.
-
 
 ### To install in Firefox
 
